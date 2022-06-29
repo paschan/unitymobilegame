@@ -107,5 +107,8 @@ On every second there is a Animation event which increase collider size so it al
 Other enemies is basic just detect the player location and rearrange its own rotation and velocity
 
 
+Finally a reminder its a zero experienced developer's first game made in 2 week dont judge !:)
+
+
 
 
