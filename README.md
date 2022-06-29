@@ -83,6 +83,7 @@ The enemies has a chance to Duplicate one of the these potion by using Instantia
 
 ![dropsystem](https://user-images.githubusercontent.com/78934308/176394179-df02c218-2057-4796-91c7-78704a604179.gif)
 
+The inventory system is a script which name Invetory in player gameobject which contains potion counts and coin
 
 The boss of this game is Warlock
 
